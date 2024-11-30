@@ -1,16 +1,23 @@
-List of (bigger) taken courses: (r) is an advanced course
+List of taken courses: (r) indicates an advanced course
 
-SEM4: (current) 
+SEM5: (current) 
+  Probability theory 2R (r)
+  Differential equations 2R (r)
+  Functional analysis 1 (r)
+  Software Design (JavaScript)
+  English 
+
+SEM4: 
   Algorithms and data structures
   Probability theory 1R (r)
   Differential equations 1R (r)
-  Differentiable manifolds
+  Differentiable manifolds (r)
   Competitive programming practice
 
 SEM3: 
   Calculus III (r)
   Abstract algebra II (r)
-  Measure theory
+  Measure theory (r)
   Discrete mathematics (r)  
   Numerical analysis
 
