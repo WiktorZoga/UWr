@@ -1,36 +1,42 @@
-List of taken courses: (r) indicates an advanced course
+List of taken courses: 
 
-SEM5: (current) 
-  Probability theory 2R (r)
-  Differential equations 2R (r)
-  Functional analysis 1 (r)
+SEM6:
+  Differential Geometry 
+  Formal languages and computational complexity
+  Architectures of computer systems
+
+SEM5:
+  Probability theory 2R 
+  Differential equations 2R 
+  Functional analysis 1 
+  Renewal thoery
   Software Design (JavaScript)
   English 
 
 SEM4: 
   Algorithms and data structures
-  Probability theory 1R (r)
-  Differential equations 1R (r)
-  Differentiable manifolds (r)
+  Probability theory 1R 
+  Differential equations 1R 
+  Differentiable manifolds 
   Competitive programming practice
 
 SEM3: 
-  Calculus III (r)
-  Abstract algebra II (r)
-  Measure theory (r)
-  Discrete mathematics (r)  
+  Calculus III 
+  Abstract algebra II 
+  Measure theory
+  Discrete mathematics 
   Numerical analysis
 
 SEM2: 
-  Calculus II (r)
-  Linear algebra I (r)
+  Calculus II 
+  Linear algebra I
   Programming methodologies (mostly introduction to functional programming)
   Artificial intelligence
   Object-oriented programming
   Competitive programming practice
 
 SEM1:
-  Calculus I (r)
-  Linear algebra 1R (r) 
+  Calculus I 
+  Linear algebra 1R 
   Logic for computer scientists
   C Programming course 
